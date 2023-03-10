@@ -23,7 +23,7 @@ const objectDestructuringDemo = {
   ],
   homeDisplay: (
     <div>
-      <p>Welcome the the Object Destructuring Demo.</p>
+      <p>Welcome to the Object Destructuring Demo.</p>
       <p>Click the buttons above to view different ways you can utilize object destructuring in javascript.</p>
     </div>
   ),
